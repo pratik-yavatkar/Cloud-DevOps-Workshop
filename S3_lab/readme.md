@@ -10,6 +10,7 @@ Access S3 Bucket from EC2
 2. List availabel S3 buckets using below aws cli command
 
     aws s3 ls
+   
 4. Now you can download/upload any data to/from S3 bucket
 
     Downlaod - aws s3 cp <s3 URI> .
