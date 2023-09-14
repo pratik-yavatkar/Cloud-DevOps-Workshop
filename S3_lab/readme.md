@@ -17,5 +17,5 @@ Access S3 Bucket from EC2
 
       ex. aws s3 cp s3://pratikbucket1/rds.png .
 
-    Upload - aws s3 cp <local file name> <s3 URI>
+    Upload - aws s3 cp local file name s3 URI
 
