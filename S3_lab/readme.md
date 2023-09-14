@@ -13,7 +13,7 @@ Access S3 Bucket from EC2
    
 4. Now you can download/upload any data to/from S3 bucket
 
-    Downlaod - aws s3 cp <s3 URI> .
+    Downlaod - aws s3 cp **<s3 URI> **.
 
       ex. aws s3 cp s3://pratikbucket1/rds.png .
 
