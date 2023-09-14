@@ -7,8 +7,13 @@
     mysql -h <DB_endpoint> -u admin -p
    enter password when it promts to
 6. Now you are inside DB, try few DB commands
+
    show databases;
+
    create database PratikDB1;
+
    use PratikDB1;
+
    create table student(id int, name varchar(255));
+
    select * from student;
