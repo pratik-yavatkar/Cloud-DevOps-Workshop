@@ -6,7 +6,7 @@
 
 
 Access S3 Bucket from EC2
-1. Log in to EC2 instnce
+1. Log in to EC2 instance
 2. List availabel S3 buckets using below aws cli command
 
     aws s3 ls
