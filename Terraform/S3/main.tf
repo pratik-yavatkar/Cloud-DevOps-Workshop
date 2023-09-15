@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "pratikbucket" {
-  bucket = "pratiks3bucket"
+  bucket = "pratikyavatkarbucket"
 
   tags = {
     Environment = "Dev"
