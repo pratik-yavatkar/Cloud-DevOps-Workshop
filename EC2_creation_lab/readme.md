@@ -7,3 +7,10 @@
 #!/bin/bash
 /bin/echo "SERVER1" > /var/www/html/index.html
 8. Click on launch instance
+
+   Once you are connected to instance
+   Install http using below command
+
+   yum install http*
+
+   echo "Server 1" >> /var/www/html/index.html
