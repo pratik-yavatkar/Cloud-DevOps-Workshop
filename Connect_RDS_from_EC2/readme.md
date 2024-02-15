@@ -16,4 +16,6 @@
 
    create table student(id int, name varchar(255));
 
+   insert into student values(1, "Pratik")
+
    select * from student;
