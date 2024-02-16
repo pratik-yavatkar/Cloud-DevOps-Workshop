@@ -2,7 +2,7 @@
 2. Connect to instance created by you
 3. Switch to root user "sudo su -"
 4. Install MySql package
-   "yum install -y mariadb-server"
+   "yum install -y mariadb*"
 5. login to DB 
     mysql -h <DB_endpoint> -u admin -p
    enter password when it promts to
